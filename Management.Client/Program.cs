@@ -133,3 +133,4 @@ namespace Management.Client
 
     }
 }
+//kod toliq ishlab chiqildi.
