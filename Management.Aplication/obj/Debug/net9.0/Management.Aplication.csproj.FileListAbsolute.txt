@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\bin\Debug\net9.0\Management.Aplication.deps.json
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\bin\Debug\net9.0\Management.Aplication.dll
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\bin\Debug\net9.0\Management.Aplication.pdb
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\bin\Debug\net9.0\Management.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\bin\Debug\net9.0\Management.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\bin\Debug\net9.0\Management.Domain.pdb
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\bin\Debug\net9.0\Management.Infrastucture.pdb
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\obj\Debug\net9.0\Management.Aplication.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\obj\Debug\net9.0\Management.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\obj\Debug\net9.0\Management.Aplication.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\obj\Debug\net9.0\Management.Aplication.AssemblyInfo.cs
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\obj\Debug\net9.0\Management.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\obj\Debug\net9.0\Manageme.F2631971.Up2Date
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\obj\Debug\net9.0\Management.Aplication.dll
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\obj\Debug\net9.0\refint\Management.Aplication.dll
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\obj\Debug\net9.0\Management.Aplication.pdb
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Aplication\obj\Debug\net9.0\ref\Management.Aplication.dll
