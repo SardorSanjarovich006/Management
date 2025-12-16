@@ -13,3 +13,4 @@ C:\Users\Asus\Desktop\VS 2026\Management\Management.Infrastucture\obj\Debug\net9
 C:\Users\Asus\Desktop\VS 2026\Management\Management.Infrastucture\obj\Debug\net9.0\refint\Management.Infrastucture.dll
 C:\Users\Asus\Desktop\VS 2026\Management\Management.Infrastucture\obj\Debug\net9.0\Management.Infrastucture.pdb
 C:\Users\Asus\Desktop\VS 2026\Management\Management.Infrastucture\obj\Debug\net9.0\ref\Management.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Infrastucture\obj\Debug\net9.0\Management.Infrastucture.sourcelink.json

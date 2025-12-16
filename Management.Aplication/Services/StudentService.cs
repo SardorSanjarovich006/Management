@@ -23,7 +23,7 @@ namespace Management.Aplication.Services
 
             var newStudent = new Student
             {
-                Id = new Random().Next(1, 1000).ToString(),
+                Id = new Random().Next(1,15).ToString(),
                 FirstName = firstName,
                 LastName = lastName
             };
@@ -34,6 +34,16 @@ namespace Management.Aplication.Services
         public Student[] GetAllStudents()
         {
             return this.DbContext.Students;
+        }
+
+        public int StudentsCapasity()
+        {
+            return this.DbContext.Students.Length;
+        }
+
+        public int GetAvailableSeats()
+        {
+            return this.DbContext.Students.Length-this.index;
         }
     }
 }

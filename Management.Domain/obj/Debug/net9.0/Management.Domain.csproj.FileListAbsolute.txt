@@ -9,3 +9,4 @@ C:\Users\Asus\Desktop\VS 2026\Management\Management.Domain\obj\Debug\net9.0\Mana
 C:\Users\Asus\Desktop\VS 2026\Management\Management.Domain\obj\Debug\net9.0\refint\Management.Domain.dll
 C:\Users\Asus\Desktop\VS 2026\Management\Management.Domain\obj\Debug\net9.0\Management.Domain.pdb
 C:\Users\Asus\Desktop\VS 2026\Management\Management.Domain\obj\Debug\net9.0\ref\Management.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\Management\Management.Domain\obj\Debug\net9.0\Management.Domain.sourcelink.json
